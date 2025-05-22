@@ -3,6 +3,7 @@ google-cloud-aiplatform
 langchain-core
 langchain-community
 langchain-google-vertexai
+langchain_google_spanner
 markdown
 langgraph
 pydantic
