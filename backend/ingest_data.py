@@ -24,10 +24,10 @@ BASE_NESTLE_URL_SCHEME = "https"
 BASE_NESTLE_URL_NETLOC = "www.madewithnestle.ca"
 
 # Construct the absolute path to the data directory
-# Assuming ingest_data.py is in backend/ and data/ is in the project root (sibling to backend/)
+# Assuming ingest_data.py is in backend/ and data/content/ is in the project root (sibling to backend/)
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR) # This goes one level up from backend/ to GraphRAG-Chatbot/
-DATA_DIR = os.path.join(PROJECT_ROOT, "data")
+DATA_DIR = os.path.join(PROJECT_ROOT, "data", "content")
 
 print(f"Calculated DATA_DIR: {DATA_DIR}") # For debugging
 

@@ -1,0 +1,614 @@
+{
+  "page_url": "https://www.madewithnestle.ca/recipes/diwali",
+  "internal_links": [
+    {
+      "href": "https://www.madewithnestle.ca/#facebook",
+      "text": "Facebook",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#twitter",
+      "text": "Twitter",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#pinterest",
+      "text": "Pinterest",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#email",
+      "text": "Email",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#yummly",
+      "text": "Yum",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/diwali/#main-content",
+      "text": "Skip to main content",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/",
+      "text": "",
+      "title": "Home",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/aero",
+      "text": "Aero",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-crisp",
+      "text": "COFFEE CRISP",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/kit-kat",
+      "text": "Kit Kat",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/smarties",
+      "text": "Smarties",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/turtles",
+      "text": "Turtles",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/after-eight",
+      "text": "After Eight",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/big-turk",
+      "text": "Big Turk",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/crunch",
+      "text": "Crunch",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/drumstick-bites",
+      "text": "Drumstick bites",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/easter-holiday",
+      "text": "Easter chocolates and treats",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/mackintosh-toffee",
+      "text": "Mackintosh Toffee",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/mirage",
+      "text": "Mirage",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/quality-street",
+      "text": "Quality Street",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/rolo",
+      "text": "Rolo",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-mate",
+      "text": "Coffee Mate",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nescafe",
+      "text": "NESCAFÉ",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/confectionery-frozen-desserts",
+      "text": "Confectionery Frozen Desserts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/hd-en",
+      "text": "Häagen-Dazs",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/drumstick",
+      "text": "Drumstick",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/del-monte-frozen-desserts",
+      "text": "Del Monte",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/parlour",
+      "text": "Parlour",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/real-dairy",
+      "text": "Real Dairy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestl%C3%A9-materna",
+      "text": "Nestlé Materna",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/maggi",
+      "text": "MAGGI",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/boost/boost-kids",
+      "text": "BOOST Kids",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/boost",
+      "text": "Boost",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/natures-bounty",
+      "text": "Nature's Bounty",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/goodhost",
+      "text": "GoodHost",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/milo",
+      "text": "Milo",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestea",
+      "text": "NESTEA",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nesfruta",
+      "text": "Nesfruta",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/carnation-hot-chocolate",
+      "text": "Carnation Hot Chocolate",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nesquik",
+      "text": "Nesquik",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-flavours",
+      "text": "A World of Flavours",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/original-smarties-cookies-recipe",
+      "text": "Original SMARTIES Cookies",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/turtles-mason-jar-s%E2%80%99more-parfait",
+      "text": "Turtles mason jar s’more parfait",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/green-monster-smoothie",
+      "text": "Green Monster Smoothie",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/aero-truffle-tarts",
+      "text": "AERO Truffle Tarts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes",
+      "text": "See All",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/boost-fluffy-protein-pancake-waffle-mix",
+      "text": "BOOST Fluffy Protein Pancake + Waffle Mix",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/perfect-affogato-0",
+      "text": "Perfect Affogato",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/en/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+      "text": "Iced Java Coconut Swirl",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/raspberry-brown-butter-cr%C3%AApes-%C3%A0-la-mode",
+      "text": "Raspberry Brown Butter Crêpes à la Mode",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/snickerdoodle-cups-vanilla-ice-cream",
+      "text": "Snickerdoodle Cups with Vanilla Ice Cream",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/sea-salt-chocolate-brownie-ice-cream-sandwiches",
+      "text": "Sea Salt Chocolate Brownie Ice Cream Sandwiches",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+      "text": "Cardamom Donuts With Vanilla Bean Ice Cream",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/unwrap-some-good",
+      "text": "Sustainability",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/nestl%C3%A9%C2%AE-smarties%C2%AE-featured-food-factory",
+      "text": "Nestlé® SMARTIES® featured on Food Factory",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/peanut-free",
+      "text": "Our Peanut Free Promise",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/nestle-canadas-nesquik-proudly-sponsors-first-ever-national-make-happy-tummies-campaign",
+      "text": "Nestlé Canada’s Nesquik proudly sponsors the First-Ever National Make Happy Tummies Campaign",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/smart-strategies-lose-weight-one-meal-time",
+      "text": "Smart Strategies to Lose Weight, One Meal at a Time",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/articles",
+      "text": "See All",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/about-us",
+      "text": "About Us",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/iogo-frozen-yogurt",
+      "text": "iÖGO",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nido",
+      "text": "Nido",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/perrier",
+      "text": "Perrier",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee",
+      "text": "Coffee",
+      "title": "Our hot beverages are just what you need when<br>you want to warm up, or wake up.",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-mate-liquid",
+      "text": "Coffee Mate Liquid",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/easy-to-prepare-foods",
+      "text": "Meal Times Made Easy",
+      "title": "Your time is precious. But so are your taste buds! That’s why we’ve cooked up a range of deliciously convenient pizzas, entrées and sauces to help out at meal times.",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/search",
+      "text": "Search",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/help",
+      "text": "Support",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/signup-1",
+      "text": "Sign up",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/s-pellegrino-chatpati-shikanji",
+      "text": "S. PELLEGRINO Chatpati Shikanji        Add a special sparkle to your Diwali celebrations with S.PELLEGRINO Naturali Limonata Chatpati Shikanji! Treat yourself and your guests to this zesty mix of ginger, mint, spice and lemon that will linger on your palate sip after sip. S. Pellegrino Limonata enhances this drink with its refreshing and bright flavours made with carefully selected Sicilian lemons.              10     0",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/vegan-sensational-samosas",
+      "text": "Vegan Sensational Samosas        These delicious vegan samosas are the perfect snack or  starters for your Indian-inspired dinner menu. These savoury goodies are sure to become your next party favourite - enjoy for Diwali or any day of the week!\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/orange-scented-gulab-jamun",
+      "text": "Orange scented Gulab Jamun        Gulab jamun is an Indian dessert of fried dough balls that are soaked in a sweet, sticky sugar syrup. As per tradition, the syrup has a delicate rose flavour: Gulab means 'rose water' and jamun refers to a berry of a similar size and colour.\nTry making this delicious orange scented Gulab Jamun and elevate your next dinner party.\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.              30     0",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/besan-laddoo-besan-ke-laddu",
+      "text": "Besan Laddoo (Besan ke laddu)        Besan laddoo (Besan ke laddu)  is a popular sweet dish made of besan (chickpea flour or gram flour), sugar, and ghee. The secret of these irresistible sweet balls full of flavor lies in the careful preparation of the right ingredients. Besan laddoos are often served during religious festivals. Try them for Diwali!\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.              15     16",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/mawa-kheer",
+      "text": "Mawa Kheer        Similar to rice pudding and sprinkled with raisins, almonds, and cashews, this decadent treat, often made for special occasions such as Ramadan, Holi or Diwali, makes a great special pudding any time. Try this Mawa Kheer recipe and discover an easy and quick dessert to impress your friends and family at home.\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.              10     5",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/maggi-subz-mast-masala",
+      "text": "MAGGI Subz Mast Masala        A deliciously different way to prepare sabzi, our Subz Mast Masala makes dinner prep easy, thanks to MAGGI Tamarina Sauce and MAGGI Masala Chilli Sauce. You don’t have to add any masalas, just add your favourite vegetables to this spicy roasted medley and watch your family savour this vegetarian dish that is crispy, tasty, and mast all at once!              15     30",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/quality-street-chocolate-coconut-kulfi",
+      "text": "Quality Street Chocolate Coconut Kulfi        These milky, sweet, and delicious frozen treats are sure please everybody’s taste buds! Add cardamom, chocolate, coconut or coffee for a little extra flavour.              10     30",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/gulab-jamun",
+      "text": "Gulab Jamun        This traditional dessert is the centre of attraction in every festival and occasion in India (especially Diwali). This delicious dessert is not just loved in India but also, in countries like Nepal, Myanmar, Pakistan, Bangladesh, and Mauritius.  This sweet dish is delicious and adds soul to any dessert platter - try this for your next celebration.",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/chocolate-hazelnut-and-pistachio-burfi",
+      "text": "Chocolate Hazelnut and Pistachio Burfi        Burfi (also known as barfi) is a popular dessert that is commonly served to celebrate a special occasion, such as a wedding or gathering, and throughout the Diwali festival! This delicious, fudge-like dessert can be made with a variety of toppings and flavourings (such as nuts, spices and floral essences like rose water or saffron). This rendition is made with creamy coconut milk and studded with decadent chocolate for the ultimate holiday indulgence              15     15",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/quality-street-nankhatai",
+      "text": "QUALITY STREET Nankhatai        Our decadent Nankhatai are imbued with the irresistible aroma of cardamom, caramel, and chocolate! QUALITY STREET Sweets make these Nankhatai unique as no two cookies taste the same! Serve these golden brown cookies with a cup of chai to your guests while they are still soft, gooey and warm from the oven! These Nankhatai cookies are the perfect celebration treat for Diwali and the holiday season.              15     20",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/sitemap",
+      "text": "Site Map",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/terms-and-conditions",
+      "text": "Terms",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/privacy-policy",
+      "text": "Privacy Policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestle-cookies-policy",
+      "text": "Cookie Policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/diwali/#addtoany",
+      "text": "More…",
+      "title": "Show all",
+      "base_domain": "madewithnestle.ca"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://www.nestlebaby.ca/nestle-nido-1",
+      "text": "Nido",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "https://www.purina.ca/",
+      "text": "Purina",
+      "title": "",
+      "base_domain": "purina.ca"
+    },
+    {
+      "href": "https://www.maisonperrier.fr/ca/en-ca",
+      "text": "Maison Perrier",
+      "title": "",
+      "base_domain": "maisonperrier.fr"
+    },
+    {
+      "href": "https://www.perrier.com/ca/en-ca",
+      "text": "Perrier",
+      "title": "",
+      "base_domain": "perrier.com"
+    },
+    {
+      "href": "https://www.sanpellegrino.com/ca/en-ca",
+      "text": "San Pellegrino",
+      "title": "",
+      "base_domain": "sanpellegrino.com"
+    },
+    {
+      "href": "https://www.corporate.nestle.ca/en/aboutus",
+      "text": "Corporate Information",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://contact.nestle.ca/en",
+      "text": "Contact Us",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://www.corporate.nestle.ca/en/jobs",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://corporate.nestle.ca/en/aboutus",
+      "text": "Corporate Information",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://corporate.nestle.ca/en/careers",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://www.nestlebaby.ca/cerelac",
+      "text": "Cerelac",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "https://www.nestlebaby.ca/gerber",
+      "text": "Gerber",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "http://www.purina.ca",
+      "text": "Purina",
+      "title": "",
+      "base_domain": "purina.ca"
+    },
+    {
+      "href": "https://www.faitavecnestle.ca/recette/diwali?_wrapper_format=html",
+      "text": "fr",
+      "title": "",
+      "base_domain": "faitavecnestle.ca"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Search",
+      "title": "",
+      "base_domain": ""
+    },
+    {
+      "href": "https://www.addtoany.com",
+      "text": "AddToAny",
+      "title": "Share Buttons",
+      "base_domain": "addtoany.com"
+    },
+    {
+      "href": "https://www.onetrust.com/products/cookie-consent/",
+      "text": "",
+      "title": "",
+      "base_domain": "onetrust.com"
+    }
+  ],
+  "crawl_date": "2025-05-23T04:03:50.614915"
+}

@@ -1,0 +1,662 @@
+{
+  "page_url": "https://www.madewithnestle.ca/french-christmas",
+  "internal_links": [
+    {
+      "href": "https://www.madewithnestle.ca/#facebook",
+      "text": "Facebook",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#twitter",
+      "text": "Twitter",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#pinterest",
+      "text": "Pinterest",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#email",
+      "text": "Email",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#yummly",
+      "text": "Yum",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/french-christmas/#main-content",
+      "text": "Skip to main content",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/",
+      "text": "",
+      "title": "Home",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/aero",
+      "text": "Aero",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-crisp",
+      "text": "COFFEE CRISP",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/kit-kat",
+      "text": "Kit Kat",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/smarties",
+      "text": "Smarties",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/turtles",
+      "text": "Turtles",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/after-eight",
+      "text": "After Eight",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/big-turk",
+      "text": "Big Turk",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/crunch",
+      "text": "Crunch",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/drumstick-bites",
+      "text": "Drumstick bites",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/easter-holiday",
+      "text": "Easter chocolates and treats",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/mackintosh-toffee",
+      "text": "Mackintosh Toffee",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/mirage",
+      "text": "Mirage",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/quality-street",
+      "text": "Quality Street",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/rolo",
+      "text": "Rolo",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-mate",
+      "text": "Coffee Mate",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nescafe",
+      "text": "NESCAFÉ",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/confectionery-frozen-desserts",
+      "text": "Confectionery Frozen Desserts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/hd-en",
+      "text": "Häagen-Dazs",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/drumstick",
+      "text": "Drumstick",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/del-monte-frozen-desserts",
+      "text": "Del Monte",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/parlour",
+      "text": "Parlour",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/real-dairy",
+      "text": "Real Dairy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestl%C3%A9-materna",
+      "text": "Nestlé Materna",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/maggi",
+      "text": "MAGGI",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/boost/boost-kids",
+      "text": "BOOST Kids",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/boost",
+      "text": "Boost",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/natures-bounty",
+      "text": "Nature's Bounty",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/goodhost",
+      "text": "GoodHost",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/milo",
+      "text": "Milo",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestea",
+      "text": "NESTEA",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nesfruta",
+      "text": "Nesfruta",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/carnation-hot-chocolate",
+      "text": "Carnation Hot Chocolate",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nesquik",
+      "text": "Nesquik",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-flavours",
+      "text": "A World of Flavours",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/original-smarties-cookies-recipe",
+      "text": "Original SMARTIES Cookies",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/turtles-mason-jar-s%E2%80%99more-parfait",
+      "text": "Turtles mason jar s’more parfait",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/green-monster-smoothie",
+      "text": "Green Monster Smoothie",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/aero-truffle-tarts",
+      "text": "AERO Truffle Tarts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes",
+      "text": "See All",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/boost-fluffy-protein-pancake-waffle-mix",
+      "text": "BOOST Fluffy Protein Pancake + Waffle Mix",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/perfect-affogato-0",
+      "text": "Perfect Affogato",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/en/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+      "text": "Iced Java Coconut Swirl",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/raspberry-brown-butter-cr%C3%AApes-%C3%A0-la-mode",
+      "text": "Raspberry Brown Butter Crêpes à la Mode",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/snickerdoodle-cups-vanilla-ice-cream",
+      "text": "Snickerdoodle Cups with Vanilla Ice Cream",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/sea-salt-chocolate-brownie-ice-cream-sandwiches",
+      "text": "Sea Salt Chocolate Brownie Ice Cream Sandwiches",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+      "text": "Cardamom Donuts With Vanilla Bean Ice Cream",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/unwrap-some-good",
+      "text": "Sustainability",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/nestl%C3%A9%C2%AE-smarties%C2%AE-featured-food-factory",
+      "text": "Nestlé® SMARTIES® featured on Food Factory",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/peanut-free",
+      "text": "Our Peanut Free Promise",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/nestle-canadas-nesquik-proudly-sponsors-first-ever-national-make-happy-tummies-campaign",
+      "text": "Nestlé Canada’s Nesquik proudly sponsors the First-Ever National Make Happy Tummies Campaign",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/smart-strategies-lose-weight-one-meal-time",
+      "text": "Smart Strategies to Lose Weight, One Meal at a Time",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/articles",
+      "text": "See All",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/about-us",
+      "text": "About Us",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/iogo-frozen-yogurt",
+      "text": "iÖGO",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nido",
+      "text": "Nido",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/perrier",
+      "text": "Perrier",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee",
+      "text": "Coffee",
+      "title": "Our hot beverages are just what you need when<br>you want to warm up, or wake up.",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-mate-liquid",
+      "text": "Coffee Mate Liquid",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/easy-to-prepare-foods",
+      "text": "Meal Times Made Easy",
+      "title": "Your time is precious. But so are your taste buds! That’s why we’ve cooked up a range of deliciously convenient pizzas, entrées and sauces to help out at meal times.",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/search",
+      "text": "Search",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/help",
+      "text": "Support",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/signup-1",
+      "text": "Sign up",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/french-christmas",
+      "text": "",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/french-christmas#xmasfact1",
+      "text": "Fun facts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/french-christmas#xmasfact2",
+      "text": "Deep Roots",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/french-christmas#recipes",
+      "text": "Recipes",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/holiday",
+      "text": "Nestle Holiday",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/nesquik-buche-de-noel",
+      "text": "Nesquik Bûche de Noël   A Yule log or bûche de Noël is a traditional Christmas cake.  This gluten-friendly dessert is flavoured with Nesquik and made up of a delicious cream cheese filling. Why not add to the celebration with some fun and festive SMARTIES! Get creative in the kitchen and decorate this classic holiday dessert to your liking. This dessert enjoyed by many French-Canadian families around the holidays will impress any dinner guests.         63 mins.       20 mins.",
+      "title": "Nesquik Bûche de Noël",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/mackintoshs-caramel-apple-beignets",
+      "text": "MacKintosh's Caramel Apple Beignets   These delicious doughy treats get their name from the French term for “fritter”. This doughnut pastry is best served warm and offers 16 fresh and easy to make beignets sure to please your friends and family. Dotted with chopped Mackintosh toffee bits and dried apple and dusted with cinnamon sugar, these beignets will be perfect as a holiday treat.         25 mins.       20 mins.",
+      "title": "MacKintosh's Caramel Apple Beignets",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/chocolate-bannock-mixed-berry-shortcakes",
+      "text": "Chocolate Bannock Mixed Berry Shortcakes   This lightly sweetened and fresh fruit dessert is a healthier and lightened-up version of shortcake that tastes as good as it looks. Try this classic recipe with a hint of maple syrup and our added twist using BOOST Powdered Chocolate. Dusted with a bit of icing sugar or garnished with a fresh mint leaf, these 6 beautiful and delicious shortcakes will be great for sharing with your loved ones.         25 mins.       25 mins.",
+      "title": "Chocolate Bannock Mixed Berry Shortcakes",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/mackintoshs-chomeur-pudding",
+      "text": "Mackintosh’s Chomeur Pudding   Fabricated during the Great Depression, this go to cake batter is made up of kitchen staples traditionally served with hot maple syrup or caramel. This classic French-Canadian dessert, also known as “unemployment cake”, is prepared with MacKintosh’s Toffee Bars for a wonderful sweet and creamy variation.         23 mins.       22 mins.",
+      "title": "Mackintosh’s Chomeur Pudding",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/bite-size-chocolate-cinnamon-pets-de-soeur",
+      "text": "Bite-Size Chocolate Cinnamon Pets de Soeur   Pets de sœur, literally translated as Nun farts, and also known to some as “Croxignolles” is a French-Canadian dessert that is often made up from left over pie dough; at times from Tourtière. This quick and easy dessert was can be craft to avoid food waste and ensure that every last ingredient and bite is enjoyed and devoured. This take on a classic French-Canadian treat is rolled with an irresistible Carnation Hot Chocolate and cinnamon filling, then baked instead of fried.         20 mins.       20 mins.",
+      "title": "Bite-Size Chocolate Cinnamon Pets de Soeur",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/savoury-nescafe-flavoured-beef-tourtiere",
+      "text": "Savoury NESCAFE Flavoured Beef Tourtière   This savoury pie is a classic French-Canadian meal traditionally enjoyed as part of the Christmas Eve feast. This recipe is typically handed down through generations, with every family preparing a slight variation on the type of meat used for the pie. Here, Nescafé Rich and Maggi Seasoning bring depth and dimension — sure to become a new family favourite this holiday season         45 mins.       110 mins.",
+      "title": "Savoury NESCAFE Flavoured Beef Tourtière",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/chocolate-caramel-tarte-au-sucre",
+      "text": "Chocolate Caramel Tarte au Sucre   Inspired by traditional Quebecois cuisine, this ooey-gooey tart is a Canadian holiday classic. Originally made with just maple syrup for sweetness, as it was a common ingredient in the region, the recipe has been adapted over the years to include brown sugar as well. This modern version includes nutty Turtles chocolates and creamy Mackintosh Caramels for extra flavour, enhanced texture and added indulgence.         30 mins.       61 mins.",
+      "title": "Chocolate Caramel Tarte au Sucre",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/classic-butter-tarts-topped-turtles",
+      "text": "Classic Butter Tarts topped with TURTLES   How do you turn butter tarts into better tarts? With TURTLES of course! Impress your friends with an elevated version of a classic dessert.         30 mins.       12 mins.",
+      "title": "Classic Butter Tarts topped with TURTLES",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/turtles-baked-apples",
+      "text": "TURTLES Baked Apples   Treat the family to delicious TURTLES baked apples, and everyone will be thankful for YOU!         10 mins.       40 mins.",
+      "title": "TURTLES Baked Apples",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/aero-caramel-truffles-yule-log-cake",
+      "text": "AERO Caramel Truffles Yule Log Cake   AERO Caramel Truffles Yule Log Cake         45 mins.       15 mins.",
+      "title": "AERO Caramel Truffles Yule Log Cake",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/sitemap",
+      "text": "Site Map",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/terms-and-conditions",
+      "text": "Terms",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/privacy-policy",
+      "text": "Privacy Policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestle-cookies-policy",
+      "text": "Cookie Policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/french-christmas/#addtoany",
+      "text": "More…",
+      "title": "Show all",
+      "base_domain": "madewithnestle.ca"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://www.nestlebaby.ca/nestle-nido-1",
+      "text": "Nido",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "https://www.purina.ca/",
+      "text": "Purina",
+      "title": "",
+      "base_domain": "purina.ca"
+    },
+    {
+      "href": "https://www.maisonperrier.fr/ca/en-ca",
+      "text": "Maison Perrier",
+      "title": "",
+      "base_domain": "maisonperrier.fr"
+    },
+    {
+      "href": "https://www.perrier.com/ca/en-ca",
+      "text": "Perrier",
+      "title": "",
+      "base_domain": "perrier.com"
+    },
+    {
+      "href": "https://www.sanpellegrino.com/ca/en-ca",
+      "text": "San Pellegrino",
+      "title": "",
+      "base_domain": "sanpellegrino.com"
+    },
+    {
+      "href": "https://www.corporate.nestle.ca/en/aboutus",
+      "text": "Corporate Information",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://contact.nestle.ca/en",
+      "text": "Contact Us",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://www.corporate.nestle.ca/en/jobs",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://corporate.nestle.ca/en/aboutus",
+      "text": "Corporate Information",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://corporate.nestle.ca/en/careers",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://www.nestlebaby.ca/cerelac",
+      "text": "Cerelac",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "https://www.nestlebaby.ca/gerber",
+      "text": "Gerber",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "http://www.purina.ca",
+      "text": "Purina",
+      "title": "",
+      "base_domain": "purina.ca"
+    },
+    {
+      "href": "https://www.faitavecnestle.ca/noel-francais?_wrapper_format=html",
+      "text": "fr",
+      "title": "",
+      "base_domain": "faitavecnestle.ca"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Search",
+      "title": "",
+      "base_domain": ""
+    },
+    {
+      "href": "https://www.facebook.com/worldofflavours.ca",
+      "text": "",
+      "title": "",
+      "base_domain": "facebook.com"
+    },
+    {
+      "href": "https://www.instagram.com/worldofflavours_ca/",
+      "text": "",
+      "title": "",
+      "base_domain": "instagram.com"
+    },
+    {
+      "href": "https://www.pinterest.ca/Worldofflavours/",
+      "text": "",
+      "title": "",
+      "base_domain": "pinterest.ca"
+    },
+    {
+      "href": "https://www.addtoany.com",
+      "text": "AddToAny",
+      "title": "Share Buttons",
+      "base_domain": "addtoany.com"
+    },
+    {
+      "href": "https://www.onetrust.com/products/cookie-consent/",
+      "text": "",
+      "title": "",
+      "base_domain": "onetrust.com"
+    }
+  ],
+  "crawl_date": "2025-05-22T23:50:23.559354"
+}

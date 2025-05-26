@@ -1,0 +1,662 @@
+{
+  "page_url": "https://www.madewithnestle.ca/WOF-world-pride",
+  "internal_links": [
+    {
+      "href": "https://www.madewithnestle.ca/#facebook",
+      "text": "Facebook",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#twitter",
+      "text": "Twitter",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#pinterest",
+      "text": "Pinterest",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#email",
+      "text": "Email",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#yummly",
+      "text": "Yum",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-pride/#main-content",
+      "text": "Skip to main content",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/",
+      "text": "",
+      "title": "Home",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/aero",
+      "text": "Aero",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-crisp",
+      "text": "COFFEE CRISP",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/kit-kat",
+      "text": "Kit Kat",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/smarties",
+      "text": "Smarties",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/turtles",
+      "text": "Turtles",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/after-eight",
+      "text": "After Eight",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/big-turk",
+      "text": "Big Turk",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/crunch",
+      "text": "Crunch",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/drumstick-bites",
+      "text": "Drumstick bites",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/easter-holiday",
+      "text": "Easter chocolates and treats",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/mackintosh-toffee",
+      "text": "Mackintosh Toffee",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/mirage",
+      "text": "Mirage",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/quality-street",
+      "text": "Quality Street",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/rolo",
+      "text": "Rolo",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-mate",
+      "text": "Coffee Mate",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nescafe",
+      "text": "NESCAFÉ",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/confectionery-frozen-desserts",
+      "text": "Confectionery Frozen Desserts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/hd-en",
+      "text": "Häagen-Dazs",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/drumstick",
+      "text": "Drumstick",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/del-monte-frozen-desserts",
+      "text": "Del Monte",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/parlour",
+      "text": "Parlour",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/real-dairy",
+      "text": "Real Dairy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestl%C3%A9-materna",
+      "text": "Nestlé Materna",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/maggi",
+      "text": "MAGGI",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/boost/boost-kids",
+      "text": "BOOST Kids",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/boost",
+      "text": "Boost",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/natures-bounty",
+      "text": "Nature's Bounty",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/goodhost",
+      "text": "GoodHost",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/milo",
+      "text": "Milo",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestea",
+      "text": "NESTEA",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nesfruta",
+      "text": "Nesfruta",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/carnation-hot-chocolate",
+      "text": "Carnation Hot Chocolate",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nesquik",
+      "text": "Nesquik",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-flavours",
+      "text": "A World of Flavours",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/original-smarties-cookies-recipe",
+      "text": "Original SMARTIES Cookies",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/turtles-mason-jar-s%E2%80%99more-parfait",
+      "text": "Turtles mason jar s’more parfait",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/green-monster-smoothie",
+      "text": "Green Monster Smoothie",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/aero-truffle-tarts",
+      "text": "AERO Truffle Tarts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes",
+      "text": "See All",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/boost-fluffy-protein-pancake-waffle-mix",
+      "text": "BOOST Fluffy Protein Pancake + Waffle Mix",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/perfect-affogato-0",
+      "text": "Perfect Affogato",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/en/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+      "text": "Iced Java Coconut Swirl",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/raspberry-brown-butter-cr%C3%AApes-%C3%A0-la-mode",
+      "text": "Raspberry Brown Butter Crêpes à la Mode",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/snickerdoodle-cups-vanilla-ice-cream",
+      "text": "Snickerdoodle Cups with Vanilla Ice Cream",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/sea-salt-chocolate-brownie-ice-cream-sandwiches",
+      "text": "Sea Salt Chocolate Brownie Ice Cream Sandwiches",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+      "text": "Cardamom Donuts With Vanilla Bean Ice Cream",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/unwrap-some-good",
+      "text": "Sustainability",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/nestl%C3%A9%C2%AE-smarties%C2%AE-featured-food-factory",
+      "text": "Nestlé® SMARTIES® featured on Food Factory",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/peanut-free",
+      "text": "Our Peanut Free Promise",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/nestle-canadas-nesquik-proudly-sponsors-first-ever-national-make-happy-tummies-campaign",
+      "text": "Nestlé Canada’s Nesquik proudly sponsors the First-Ever National Make Happy Tummies Campaign",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/smart-strategies-lose-weight-one-meal-time",
+      "text": "Smart Strategies to Lose Weight, One Meal at a Time",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/articles",
+      "text": "See All",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/about-us",
+      "text": "About Us",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/iogo-frozen-yogurt",
+      "text": "iÖGO",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nido",
+      "text": "Nido",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/perrier",
+      "text": "Perrier",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee",
+      "text": "Coffee",
+      "title": "Our hot beverages are just what you need when<br>you want to warm up, or wake up.",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-mate-liquid",
+      "text": "Coffee Mate Liquid",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/easy-to-prepare-foods",
+      "text": "Meal Times Made Easy",
+      "title": "Your time is precious. But so are your taste buds! That’s why we’ve cooked up a range of deliciously convenient pizzas, entrées and sauces to help out at meal times.",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/search",
+      "text": "Search",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/help",
+      "text": "Support",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/signup-1",
+      "text": "Sign up",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-flavours#sharing_food",
+      "text": "Nestle around the globe",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-flavours#world_facts",
+      "text": "Nestle fun facts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-flavours#world_recipes",
+      "text": "Global recipes",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-holidays",
+      "text": "Holidays",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-FAQs",
+      "text": "FAQ",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/node/16926#recipes",
+      "text": "View our Colourful recipes below",
+      "title": "View our Colourful recipes below",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/spicy-vegetarian-chinese-inspired-breakfast-crepes",
+      "text": "Spicy Vegetarian Chinese-inspired Breakfast Crepes   Inspired by popular Chinese street food, these… jianbing-style savoury crepes are packed with texture, colour, and flavour, and are balanced with the perfect amount of heat! Using carbonated water for the batter results in a fluffy, delicate consistency for these vegetarian breakfast crepes.         7 mins.       38 mins.",
+      "title": "Spicy Vegetarian Chinese-inspired Breakfast Crepes",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/coconut-acai-smoothie-bowl",
+      "text": "Coconut Acai Smoothie Bowl   Coconut? Yep. Acai? Uh-huh. Wholesome nutrition? Of… course. You’ll find them all in our new Coconut Acai Smoothie Bowl made with BOOST Original Powder. This delicious and nutritious recipe makes a great addition to a balanced breakfast.         0 mins.       5 mins.",
+      "title": "Coconut Acai Smoothie Bowl",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/masala-vegetable-fritter-eggs-benedict",
+      "text": "Masala Vegetable Fritter Eggs Benedict   Using whole veggies, and Indian-style garam… masala – a fragrant spice blend made with a blend of warm, fragrant spices – this delicious twist on a brunch-time favourite is sure to be a delicious and eco-friendly hit! Blender hollandaise makes preparation a breeze, so less time is spent fussing in the kitchen and more time can be spent eating and enjoying around the table!         26 mins.       42 mins.",
+      "title": "Masala Vegetable Fritter Eggs Benedict",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/spicy-thai-coconut-soup",
+      "text": "Spicy Thai Coconut Soup   This soup, otherwise known in Thailand as Tom Kha,… gets its name from tom, meaning soup, and kha, meaning “galangal,” a type of aromatic root vegetable. Make this quick and easy Thai classic at home, fragrant with herbs and spices, for dinner tonight.\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.         20 mins.       30 mins.",
+      "title": "Spicy Thai Coconut Soup",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/pad-thai-arc-en-ciel-sans-noix-decouvrez-fait-avec-nestle",
+      "text": "Pad Thai arc-en-ciel sans noix | Découvrez Fait avec Nestlé   Pad Thai was created in the 1930s in Thailand by… Plaek Phibunsongkhram, who was the prime minister at the time. Noodles are economical to produce and could be dried and kept for long periods of time. The amount of rice used to make noodles was 50 per cent of what would be consumed if it was eaten unprocessed, so noodles essentially doubled Thailand’s rice stores. Colorful vegetables stir-fried with rice noodles and a lip-smacking sauce make this a delicious and easy alternative to take-out.\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.         40 mins.       20 mins.",
+      "title": "Pad Thai arc-en-ciel sans noix | Découvrez Fait avec Nestlé",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/vegan-pride-rainbow-toppings-pizza",
+      "text": "Vegan Pride Rainbow Toppings Pizza   Celebrate Pride with this tasty vegan rainbow… recipe! A simple, colorful and fun recipe that everyone will love.          mins.        mins.",
+      "title": "Vegan Pride Rainbow Toppings Pizza",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/vegan-sensational-samosas",
+      "text": "Vegan Sensational Samosas   These delicious vegan samosas are the perfect… snack or  starters for your Indian-inspired dinner menu. These savoury goodies are sure to become your next party favourite - enjoy for Diwali or any day of the week!\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.          mins.        mins.",
+      "title": "Vegan Sensational Samosas",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/help/article/Support-LGBTQI2S-Community",
+      "text": "Learn how Nestlé Supports the LGBTQI2S Community",
+      "title": "Learn how Nestlé Supports the LGBTQI2S Community",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/strawberry-smarties-hearts",
+      "text": "Strawberry SMARTIES Hearts   Fall in love with a new Valentine’s Day treat!         10 mins.       0 mins.",
+      "title": "Strawberry SMARTIES Hearts",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/smarties-cupcake-snake",
+      "text": "SMARTIES Chocolate Cupcake Snake   This sneaky SMARTIES snake is sure to please the… crowd!         20 mins.       20 mins.",
+      "title": "SMARTIES Chocolate Cupcake Snake",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/smarties-cake-pops",
+      "text": "SMARTIES Cake Pops   A playful creation perfect for colourful celebrations!         10 mins.       16 mins.",
+      "title": "SMARTIES Cake Pops",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/sitemap",
+      "text": "Site Map",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/terms-and-conditions",
+      "text": "Terms",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/privacy-policy",
+      "text": "Privacy Policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestle-cookies-policy",
+      "text": "Cookie Policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-pride/#addtoany",
+      "text": "More…",
+      "title": "Show all",
+      "base_domain": "madewithnestle.ca"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://www.nestlebaby.ca/nestle-nido-1",
+      "text": "Nido",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "https://www.purina.ca/",
+      "text": "Purina",
+      "title": "",
+      "base_domain": "purina.ca"
+    },
+    {
+      "href": "https://www.maisonperrier.fr/ca/en-ca",
+      "text": "Maison Perrier",
+      "title": "",
+      "base_domain": "maisonperrier.fr"
+    },
+    {
+      "href": "https://www.perrier.com/ca/en-ca",
+      "text": "Perrier",
+      "title": "",
+      "base_domain": "perrier.com"
+    },
+    {
+      "href": "https://www.sanpellegrino.com/ca/en-ca",
+      "text": "San Pellegrino",
+      "title": "",
+      "base_domain": "sanpellegrino.com"
+    },
+    {
+      "href": "https://www.corporate.nestle.ca/en/aboutus",
+      "text": "Corporate Information",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://contact.nestle.ca/en",
+      "text": "Contact Us",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://www.corporate.nestle.ca/en/jobs",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://corporate.nestle.ca/en/aboutus",
+      "text": "Corporate Information",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://corporate.nestle.ca/en/careers",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://www.nestlebaby.ca/cerelac",
+      "text": "Cerelac",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "https://www.nestlebaby.ca/gerber",
+      "text": "Gerber",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "http://www.purina.ca",
+      "text": "Purina",
+      "title": "",
+      "base_domain": "purina.ca"
+    },
+    {
+      "href": "https://www.faitavecnestle.ca/WOF-monde-fierte?_wrapper_format=html",
+      "text": "fr",
+      "title": "",
+      "base_domain": "faitavecnestle.ca"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Search",
+      "title": "",
+      "base_domain": ""
+    },
+    {
+      "href": "https://www.skipthedishes.com/?search=skip%20express%20lane",
+      "text": "Support Now",
+      "title": "",
+      "base_domain": "skipthedishes.com"
+    },
+    {
+      "href": "https://www.addtoany.com",
+      "text": "AddToAny",
+      "title": "Share Buttons",
+      "base_domain": "addtoany.com"
+    },
+    {
+      "href": "https://www.onetrust.com/products/cookie-consent/",
+      "text": "",
+      "title": "",
+      "base_domain": "onetrust.com"
+    }
+  ],
+  "crawl_date": "2025-05-22T23:40:22.169512"
+}

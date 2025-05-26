@@ -1,0 +1,2006 @@
+{
+  "page_url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581",
+  "internal_links": [
+    {
+      "href": "https://www.madewithnestle.ca/#facebook",
+      "text": "Facebook",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#twitter",
+      "text": "Twitter",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#pinterest",
+      "text": "Pinterest",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#email",
+      "text": "Email",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/#yummly",
+      "text": "Yum",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581/#main-content",
+      "text": "Skip to main content",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/",
+      "text": "",
+      "title": "Home",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/aero",
+      "text": "Aero",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-crisp",
+      "text": "COFFEE CRISP",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/kit-kat",
+      "text": "Kit Kat",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/smarties",
+      "text": "Smarties",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/turtles",
+      "text": "Turtles",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/after-eight",
+      "text": "After Eight",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/big-turk",
+      "text": "Big Turk",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/crunch",
+      "text": "Crunch",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/drumstick-bites",
+      "text": "Drumstick bites",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/easter-holiday",
+      "text": "Easter chocolates and treats",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/mackintosh-toffee",
+      "text": "Mackintosh Toffee",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/mirage",
+      "text": "Mirage",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/quality-street",
+      "text": "Quality Street",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/rolo",
+      "text": "Rolo",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-mate",
+      "text": "Coffee Mate",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nescafe",
+      "text": "NESCAFÉ",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/confectionery-frozen-desserts",
+      "text": "Confectionery Frozen Desserts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/hd-en",
+      "text": "Häagen-Dazs",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/drumstick",
+      "text": "Drumstick",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/iogo-frozen-yogurt",
+      "text": "IÖGO",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/del-monte-frozen-desserts",
+      "text": "Del Monte",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/parlour",
+      "text": "Parlour",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/real-dairy",
+      "text": "Real Dairy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestl%C3%A9-materna",
+      "text": "Nestlé Materna",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/maggi",
+      "text": "MAGGI",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/boost/boost-kids",
+      "text": "BOOST Kids",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/boost",
+      "text": "Boost",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/natures-bounty",
+      "text": "Nature's Bounty",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/goodhost",
+      "text": "GoodHost",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/milo",
+      "text": "Milo",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestea",
+      "text": "NESTEA",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nesfruta",
+      "text": "Nesfruta",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/carnation-hot-chocolate",
+      "text": "Carnation Hot Chocolate",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nesquik",
+      "text": "Nesquik",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/WOF-world-flavours",
+      "text": "A World of Flavours",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/original-smarties-cookies-recipe",
+      "text": "Original SMARTIES Cookies",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/turtles-mason-jar-s%E2%80%99more-parfait",
+      "text": "Turtles mason jar s’more parfait",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/green-monster-smoothie",
+      "text": "Green Monster Smoothie",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes/aero-truffle-tarts",
+      "text": "AERO Truffle Tarts",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes",
+      "text": "See All",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/boost-fluffy-protein-pancake-waffle-mix",
+      "text": "BOOST Fluffy Protein Pancake + Waffle Mix",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/perfect-affogato-0",
+      "text": "Perfect Affogato",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/en/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+      "text": "Iced Java Coconut Swirl",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/raspberry-brown-butter-cr%C3%AApes-%C3%A0-la-mode",
+      "text": "Raspberry Brown Butter Crêpes à la Mode",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/snickerdoodle-cups-vanilla-ice-cream",
+      "text": "Snickerdoodle Cups with Vanilla Ice Cream",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/sea-salt-chocolate-brownie-ice-cream-sandwiches",
+      "text": "Sea Salt Chocolate Brownie Ice Cream Sandwiches",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+      "text": "Cardamom Donuts With Vanilla Bean Ice Cream",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/unwrap-some-good",
+      "text": "Sustainability",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/nestl%C3%A9%C2%AE-smarties%C2%AE-featured-food-factory",
+      "text": "Nestlé® SMARTIES® featured on Food Factory",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/peanut-free",
+      "text": "Our Peanut Free Promise",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/nestle-canadas-nesquik-proudly-sponsors-first-ever-national-make-happy-tummies-campaign",
+      "text": "Nestlé Canada’s Nesquik proudly sponsors the First-Ever National Make Happy Tummies Campaign",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/news/smart-strategies-lose-weight-one-meal-time",
+      "text": "Smart Strategies to Lose Weight, One Meal at a Time",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/articles",
+      "text": "See All",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/about-us",
+      "text": "About Us",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nido",
+      "text": "Nido",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/perrier",
+      "text": "Perrier",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee",
+      "text": "Coffee",
+      "title": "Our hot beverages are just what you need when<br>you want to warm up, or wake up.",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/coffee-mate-liquid",
+      "text": "Coffee Mate Liquid",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/easy-to-prepare-foods",
+      "text": "Meal Times Made Easy",
+      "title": "Your time is precious. But so are your taste buds! That’s why we’ve cooked up a range of deliciously convenient pizzas, entrées and sauces to help out at meal times.",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/search",
+      "text": "Search",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/help",
+      "text": "Support",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/signup-1",
+      "text": "Sign up",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A16581",
+      "text": "(-)\nEast Indian\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706",
+      "text": "(-)\nNuts / Peanuts-Free\n  (50)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11351&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "4th of July\n  (7)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11411&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "5th of May\n  (7)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11211&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Adults lunchbox\n  (19)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12491&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "African - style\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10911&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Afternoon\n  (11)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16006&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "All Desserts\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16311&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "All Holidays\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13981&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "All Occasions\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12601&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "All Time Favourites\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11606&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "American\n  (26)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16296&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "anytime\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11971&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Appetizer\n  (7)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11421&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Appetizers\n  (13)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12661&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Arab\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12441&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Asian - style\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10861&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Autumn\n  (41)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15651&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "back to school\n  (5)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16261&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Baked Goods\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16706",
+      "text": "Bakery products\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11181&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Baking\n  (19)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10986&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Barbecue\n  (16)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12446&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Better for you\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11066&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Beverage\n  (24)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11091&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Beverage / Drink\n  (24)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10831&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Birthday\n  (60)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11121&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Bowl\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13391&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Braised dishes\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11061&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Breakfast\n  (78)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11056&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Brunch\n  (13)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10996&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Budget-friendly\n  (50)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11716&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Buffet\n  (13)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10836&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Cake\n  (31)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13936&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "cakes&cupcakes\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12166&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Carnival\n  (14)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10826&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Celebration\n  (108)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12451&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Chicken\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14186&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Chinese - style\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13261&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Chocolate\n  (5)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10856&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Christmas\n  (31)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12501&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Classic\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16731",
+      "text": "Coffee\n  (10)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11266&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Cold / assembly\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13851&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Comfort Food\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15941&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Cookies\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11151&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Cookies / Biscuits\n  (32)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11021&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Cooking with kids\n  (49)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13956&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "craft\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16191&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Crustaceans-Free\n  (64)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10776&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Date night\n  (30)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10751&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Dessert\n  (149)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15951&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Dessert Recipes\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15946&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Desserts\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10981&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Dinner\n  (32)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11426&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Dip\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13551&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Diwali\n  (10)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13856&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Donut\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11071&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Drinks\n  (25)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14156&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "earth-friendly\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14221&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Earth Day\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10936&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Easter\n  (15)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10886&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Easy\n  (100)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16216&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Easy Snacks\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16196&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Egg-Free\n  (45)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16051&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Eid\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13991&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Entertaining\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A12776&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "European\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16726",
+      "text": "Fall\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10786&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Family Friendly\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11376&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Family Meals\n  (34)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16701",
+      "text": "Famous Chef\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11406&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Father’s day\n  (9)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16646",
+      "text": "Filipino\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12521&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Fish\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16201&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Fish-free\n  (63)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16651",
+      "text": "Flan / Mousse\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11656&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Football Match\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10991&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "For two\n  (23)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10756&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "France\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10781&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Friends\n  (95)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11281&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "From the oven\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11111&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "From the pan\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16131&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Frozen desserts\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16036&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Fruit\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16231&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Fruits\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A12741&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Fusion\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11336&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Game day\n  (13)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15926&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "German\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12571&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Global\n  (7)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11076&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Gluten-Free\n  (8)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11241&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Gluten-free\n  (8)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13846&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Greek\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12676&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Grilled\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11146&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Halloween\n  (18)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13036&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Handhold\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13861&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Hannukah\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16616",
+      "text": "High in fiber\n  (14)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11086&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "High in protein\n  (24)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13546&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Holi\n  (5)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15841&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Holiday\n  (6)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15966&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Holidays & Celebration Recipes\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13516&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Hot\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14261&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Hot Chocolate\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10791&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Ice creams\n  (9)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16846",
+      "text": "Iced Latte\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16071&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Iftar\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16301&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Impress your guests\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12596&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Indian\n  (16)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15956&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Ingredient - Chocolate\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16781",
+      "text": "Instant Coffee\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14216&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "international\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15716&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Italian\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15096&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Jamaican cuisine\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16621",
+      "text": "Keto-Friendly\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11016&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Kids lunchbox\n  (27)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10931&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Kids party\n  (64)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13996&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Kids Treats\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13386&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Korean\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16626",
+      "text": "Lactose-Free\n  (8)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16631",
+      "text": "Lactose-free\n  (8)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12671&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Lamb\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15986&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Latin American cuisine\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A12811&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Lebanese\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14161&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Leftovers\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16601",
+      "text": "Low salt\n  (67)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11531&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Low sugar\n  (22)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11401&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Lunch\n  (40)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12666&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Maggi Grill Seasoning\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16221&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "MAGGI Noodles\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11106&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Main course\n  (15)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15656&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "meal prep\n  (5)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11446&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Mexican\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13401&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Middle East\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13586&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Milk / Cream base\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16226&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Milkshake\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16241&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Mocktail\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14101&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Morrocan\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11671&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Mother's Day\n  (6)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13931&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "mousse\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10916&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Movie night\n  (9)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11341&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "National Day\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16786",
+      "text": "Nescafe\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16801",
+      "text": "New\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10921&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "New Years\n  (14)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16206&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "North Indian\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15971&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Occasions & Holidays\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13531&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "On the Go\n  (15)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11856&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Other\n  (12)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11851&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Other\n  (7)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16686",
+      "text": "Other\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15936&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Oven\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16681",
+      "text": "Paleo\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10796&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Pancakes / Crepes\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13451&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Pasta\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16606",
+      "text": "Pescetarian\n  (44)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16136&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Popular\n  (7)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16596",
+      "text": "Pork-Free\n  (51)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A12781&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Potatoes\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A12746&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Pot cooking\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14256&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Pride\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13521&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Protein\n  (30)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11806&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Pudding\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16796",
+      "text": "Quick & Easy\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11466&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Rainy season\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12496&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Ramadan\n  (8)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A12711&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Restaurant Style at Home\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16291&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "roasted\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12221&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Saint Patricks\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12626&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Salad\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14076&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Salad\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12231&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Salty Pies / Tarts\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12226&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Sandwiches\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12321&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Saucepan / Gratin\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16306&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Shareable\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11101&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Side dish\n  (7)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11051&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Small meal\n  (28)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13526&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Smoothie\n  (13)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10906&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Snack\n  (69)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A12736&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Soup\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13476&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Soup\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16591",
+      "text": "Source of fiber\n  (45)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11081&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Source of protein\n  (46)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16211&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "South Indian\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16676",
+      "text": "Soy-Free\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14211&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Spanish\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16286&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Spicy\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11661&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Sport\n  (5)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10771&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Spring\n  (27)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12631&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Starter\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10766&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Summer\n  (62)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10976&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Supper\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14151&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "sustainability\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16321&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "sweet\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A11381&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Sweet Pies / Tarts\n  (6)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13381&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Tapas\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13536&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Team Homan\n  (5)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16331&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Teatime\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13511&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Tex-Mex\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13446&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Thai\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10926&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Thanksgiving\n  (24)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16326&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Treat\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16586",
+      "text": "Treenut-Free\n  (40)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_tags_filter%3A16611",
+      "text": "Under 300 kcal\n  (80)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10761&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Valentine's day\n  (21)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A13621&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Vegan\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16281&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Vegetables\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12636&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Vegetarian\n  (46)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A12816&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Veggies\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12516&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Vietnamese\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10816&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Weekdays\n  (60)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10821&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Weekends\n  (130)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A10851&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Winter\n  (41)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A15961&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "World Cuisine\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A14191&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "world of flavours\n  (27)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2947&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Aero\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2952&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Boost \n  (18)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2954&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Carnation Hot Chocolate\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2972&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "MAGGI\n  (15)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2973&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Milo\n  (1)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2976&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "NESCAFÉ\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2980&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Nesquik\n  (3)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A6878&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "San Pellegrino\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A3002&f%5B1%5D=recipe_tags_filter%3A12706&f%5B2%5D=recipe_tags_filter%3A16581",
+      "text": "Smarties\n  (2)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_total_time%3A0",
+      "text": "0 - 15 Minutes\n  (14)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_total_time%3A15",
+      "text": "15 - 30 Minutes\n  (7)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_total_time%3A30",
+      "text": "30 - 45 Minutes\n  (4)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_total_time%3A45",
+      "text": "45 - 60 Minutes\n  (6)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&f%5B2%5D=recipe_total_time%3A60",
+      "text": "60+ Minutes\n  (20)",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581/",
+      "text": "Filter",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/classic-filipino-silvana-cookies",
+      "text": "Classic Filipino Silvana Cookies        Silvanas, originated from the Philippines. This absolute classic Filipino sweet treat is a frozen sandwich cookies that includes a cashew meringue, rich buttercream and cookie crumb coating.\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.              0     40",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/s-pellegrino-chatpati-shikanji",
+      "text": "S. PELLEGRINO Chatpati Shikanji        Add a special sparkle to your Diwali celebrations with S.PELLEGRINO Naturali Limonata Chatpati Shikanji! Treat yourself and your guests to this zesty mix of ginger, mint, spice and lemon that will linger on your palate sip after sip. S. Pellegrino Limonata enhances this drink with its refreshing and bright flavours made with carefully selected Sicilian lemons.              10     0",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/maggi-biryani-noodles-recipe",
+      "text": "MAGGI Biryani Noodles Recipe        Biryani or your favourite MAGGI Masala Noodles? Now you don't have to choose. This epic MAGGI Noodles Biryani Recipe combines your favourite 2-Minute Masala Noodles with a Biryani twist. Packed with lots of vegetables and aromatic spices, this easy and delicious meal will be a hit with the whole family. It can be served at home for everyday cooking or for special occasions like holidays and celebrations.              15     40",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/hidden-veggie-orange-smoothie",
+      "text": "Hidden Veggie Orange Smoothie        Tired of dipping carrots in hummus? Get some carrots in by adding this amazing smoothie to your breakfast - made with carrot-orange juice, banana, yogurt and of course, BOOST.              2     0",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/dulce-de-leche",
+      "text": "Dulce de Leche        This simple sauce makes practically everything better. Actually, it makes everything better.              2     60",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/chingri-malai-curry-india",
+      "text": "Chingri Malai Curry from India        A conversation about traditional Bengali cuisine can never be complete without Chingri-Malai Curry! ‘Chingri’ means prawn and ‘Malai’ means cream, but it’s the coconut milk in this recipe that gives it the creaminess and smooth texture. So, if you love seafood and are in the mood to have something delicious, this is a recipe you need to try!\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.              20     45",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/coconut-meatball-curry-made-maggi",
+      "text": "Coconut Meatball Curry made with MAGGI        Packed with hidden veggies, this curry-inspired one-pot dish is perfect for big-batch cooking to keep you fuelled for the week! Coconut milk powder provides creaminess that perfectly balances the warm spice of curry paste and the hot and sweet chili sauce.              40     45",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/vegan-pride-rainbow-toppings-pizza",
+      "text": "Vegan Pride Rainbow Toppings Pizza        Celebrate Pride with this tasty vegan rainbow recipe! A simple, colorful and fun recipe that everyone will love.",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/nesquik-vanilla-northern-doughnuts",
+      "text": "NESQUIK Vanilla Northern Doughnuts        A classic, these doughnuts are a dining table staple in many Indigenous communities. Finished with cinnamon and sugar, or paired with a tart Indigenous-inspired Wojapi Sauce, these doughnuts are perfect for a snack or dessert. For reducing food waste –donut holes can be fried separately to create delicious bite-size pieces!              45     25",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/savory-breakfast-belizean-fry-jacks",
+      "text": "Savory Breakfast Belizean Fry Jacks        Similar to beignets from New Orleans, these delicious pieces of fried dough are a popular staple in Belize, as well as throughout the Caribbean and Latin America. Commonly enjoyed for breakfast as fuel for the day ahead, fry jacks can be eaten sweet or savoury depending on the accompanying toppings and condiments.              30     260",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipe/nesquik-strawberry-gulabo",
+      "text": "NESQUIK Strawberry Gulabo        This Diwali, mix it up with the creamy texture and luscious flavour of Nesquik Strawberry Gulabo! Let this recipe be the highlight of your festivities, bringing a burst of flavour, vibrant colour and a touch of sweetness to your celebrations. Enjoy every sip of these aromatic flavours including strawberry, cardamom and rosewater and share the joy of with your loved ones.              10     0",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&_wrapper_format=html&page=1",
+      "text": "More",
+      "title": "Load more items",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/sitemap",
+      "text": "Site Map",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/terms-and-conditions",
+      "text": "Terms",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/privacy-policy",
+      "text": "Privacy Policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestle-cookies-policy",
+      "text": "Cookie Policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581/#addtoany",
+      "text": "More…",
+      "title": "Show all",
+      "base_domain": "madewithnestle.ca"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://www.nestlebaby.ca/nestle-nido-1",
+      "text": "Nido",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "https://www.purina.ca/",
+      "text": "Purina",
+      "title": "",
+      "base_domain": "purina.ca"
+    },
+    {
+      "href": "https://www.maisonperrier.fr/ca/en-ca",
+      "text": "Maison Perrier",
+      "title": "",
+      "base_domain": "maisonperrier.fr"
+    },
+    {
+      "href": "https://www.perrier.com/ca/en-ca",
+      "text": "Perrier",
+      "title": "",
+      "base_domain": "perrier.com"
+    },
+    {
+      "href": "https://www.sanpellegrino.com/ca/en-ca",
+      "text": "San Pellegrino",
+      "title": "",
+      "base_domain": "sanpellegrino.com"
+    },
+    {
+      "href": "https://www.corporate.nestle.ca/en/aboutus",
+      "text": "Corporate Information",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://contact.nestle.ca/en",
+      "text": "Contact Us",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://www.corporate.nestle.ca/en/jobs",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://corporate.nestle.ca/en/aboutus",
+      "text": "Corporate Information",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://corporate.nestle.ca/en/careers",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "nestle.ca"
+    },
+    {
+      "href": "https://www.nestlebaby.ca/cerelac",
+      "text": "Cerelac",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "https://www.nestlebaby.ca/gerber",
+      "text": "Gerber",
+      "title": "",
+      "base_domain": "nestlebaby.ca"
+    },
+    {
+      "href": "http://www.purina.ca",
+      "text": "Purina",
+      "title": "",
+      "base_domain": "purina.ca"
+    },
+    {
+      "href": "https://www.faitavecnestle.ca/recette?f%5B0%5D=recipe_tags_filter%3A12706&f%5B1%5D=recipe_tags_filter%3A16581&_wrapper_format=html",
+      "text": "fr",
+      "title": "",
+      "base_domain": "faitavecnestle.ca"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Search",
+      "title": "",
+      "base_domain": ""
+    },
+    {
+      "href": "https://www.addtoany.com",
+      "text": "AddToAny",
+      "title": "Share Buttons",
+      "base_domain": "addtoany.com"
+    },
+    {
+      "href": "https://www.onetrust.com/products/cookie-consent/",
+      "text": "",
+      "title": "",
+      "base_domain": "onetrust.com"
+    }
+  ],
+  "crawl_date": "2025-05-24T13:59:21.345029"
+}

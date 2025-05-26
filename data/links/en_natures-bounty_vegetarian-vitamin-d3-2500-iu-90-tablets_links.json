@@ -1,0 +1,410 @@
+{
+  "page_url": "https://www.madewithnestle.ca/en/natures-bounty/vegetarian-vitamin-d3-2500-iu-90-tablets",
+  "internal_links": [
+    {
+      "href": "https://naturesbounty.ca/#MainContent",
+      "text": "Skip to content",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/pages/take-the-quiz",
+      "text": "Take the Personalized Vitamin Quiz to get a $3 Coupon!",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/",
+      "text": "En",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/appearance",
+      "text": "Appearance",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/bone-joint",
+      "text": "Bone & Joint",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/energy",
+      "text": "Energy",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/eye",
+      "text": "Eye",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/general-wellness",
+      "text": "General Wellness",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/gut",
+      "text": "Gut",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/heart",
+      "text": "Heart",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/immunity",
+      "text": "Immunity",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/sleep",
+      "text": "Sleep",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/stress",
+      "text": "Stress",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/herbal",
+      "text": "Herbal",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/womens-health",
+      "text": "Women's Health",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/kids-health",
+      "text": "Kid's Health",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/best-sellers",
+      "text": "Best Sellers",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/vitamin-b-2",
+      "text": "Vitamin B",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/vitamin-c",
+      "text": "Vitamin C",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/vitamin-d-2",
+      "text": "Vitamin D",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/gummy-vitamins",
+      "text": "Gummy Vitamins",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/vitamins",
+      "text": "View All Vitamins",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/biotin-2",
+      "text": "Biotin",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/melatonin",
+      "text": "Melatonin",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/omegas",
+      "text": "Omegas",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/probiotics",
+      "text": "Probiotics",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/supplements-2",
+      "text": "View All Supplements",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/calcium",
+      "text": "Calcium",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/iron",
+      "text": "Iron",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/magnesium",
+      "text": "Magnesium",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/zinc",
+      "text": "Zinc",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/minerals-1",
+      "text": "View All Minerals",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/turmeric",
+      "text": "Turmeric",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/herbs",
+      "text": "View All Herbs",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/all-others",
+      "text": "All Others",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/blogs/natures-bounty-blog",
+      "text": "Blogs",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/pages/sign-up",
+      "text": "Sign Up",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/pages/where-to-buy",
+      "text": "Where to Buy",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/all",
+      "text": "Learn More",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/collections/health-benefits",
+      "text": "View All",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/biotin-ultra-strength-10000-mcg-softgels",
+      "text": "Biotin, Ultra Strength, 10,000 mcg, Softgels",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/extra-strength-hair-skin-nails-gummies",
+      "text": "Extra Strength Hair, Skin & Nails, Gummies",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/vitamin-d3-1000-iu-value-size-250-softgels",
+      "text": "Vitamin D3, 1000 IU, Value Size, 250 Softgels",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/maximum-strength-melatonin-10-mg",
+      "text": "Maximum Strength Melatonin, 10 mg",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/melatonin-gummies-helps-reset-sleepwake-cycle",
+      "text": "Melatonin Gummies, Helps Reset Sleep-wake Cycle",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/magnesium-plus-electrolytes-500-mg-tablets",
+      "text": "Magnesium Plus Electrolytes, 500 mg, Tablets",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/gentle-iron-28-mg-helps-prevent-anemia-capsules",
+      "text": "Gentle Iron 28 mg, Helps Prevent Anemia, Capsules",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/calcium-with-d3-zinc-gummies",
+      "text": "Calcium With D3 & Zinc, Gummies",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/milk-thistle-1000-mg-200-softgels",
+      "text": "Milk Thistle, 1000 mg, 200 Softgels",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/oil-of-oregano-1500-mg-source-of-antioxidants",
+      "text": "Oil Of Oregano, 1500 mg, Source Of Antioxidants",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/turmeric-curcumin-plus-black-pepper-1000-mg",
+      "text": "Turmeric Curcumin Plus Black Pepper, 1000 mg",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/products/hair-skin-nails-advanced-tablets",
+      "text": "Hair, Skin & Nails Advanced, Tablets",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/pages/contact",
+      "text": "Contact Us",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/pages/faqs",
+      "text": "FAQs",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/policies/privacy-policy",
+      "text": "Privacy Policy",
+      "title": "Privacy Policy",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/policies/shipping-policy",
+      "text": "Shipping policy",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    },
+    {
+      "href": "https://naturesbounty.ca/policies/refund-policy",
+      "text": "Refund policy",
+      "title": "",
+      "base_domain": "naturesbounty.ca"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://www.facebook.com/NaturesBountyCanada/",
+      "text": "Facebook",
+      "title": "",
+      "base_domain": "facebook.com"
+    },
+    {
+      "href": "https://www.instagram.com/naturesbountyca/?hl=en",
+      "text": "Instagram",
+      "title": "",
+      "base_domain": "instagram.com"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCW65qb5yMquVbesnZXBQV0Q",
+      "text": "YouTube",
+      "title": "",
+      "base_domain": "youtube.com"
+    },
+    {
+      "href": "https://www.tiktok.com/@naturesbountyca",
+      "text": "TikTok",
+      "title": "",
+      "base_domain": "tiktok.com"
+    },
+    {
+      "href": "mailto:consumer.care@ca.nestle.com",
+      "text": "consumer.care@ca.nestle.com",
+      "title": "mailto:consumer.care@ca.nestle.com",
+      "base_domain": ""
+    },
+    {
+      "href": "tel:1-800-565-1871",
+      "text": "1-800-565-1871",
+      "title": "tel:1-800-565-1871",
+      "base_domain": ""
+    },
+    {
+      "href": "https://www.madewithnestle.ca/privacy-policy",
+      "text": "Privacy policy",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/terms-and-conditions",
+      "text": "Terms of service",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.madewithnestle.ca/nestle-cookies-policy",
+      "text": "Cookie Notice",
+      "title": "",
+      "base_domain": "madewithnestle.ca"
+    },
+    {
+      "href": "https://www.onetrust.com/products/cookie-consent/",
+      "text": "",
+      "title": "",
+      "base_domain": "onetrust.com"
+    }
+  ],
+  "crawl_date": "2025-05-23T00:01:49.285773"
+}
