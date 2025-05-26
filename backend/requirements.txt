@@ -8,3 +8,5 @@ markdown
 langgraph
 pydantic
 python-dotenv
+fastapi
+uvicorn[standard]
