@@ -1,0 +1,63 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: graphrag-backend
+  annotations:
+    run.googleapis.com/ingress: all
+    run.googleapis.com/execution-environment: gen2
+spec:
+  template:
+    metadata:
+      annotations:
+        run.googleapis.com/cpu-throttling: "false"
+        run.googleapis.com/memory: "2Gi"
+        run.googleapis.com/cpu: "1000m"
+        run.googleapis.com/max-scale: "10"
+        run.googleapis.com/min-scale: "1"
+        run.googleapis.com/timeout: "300s"
+    spec:
+      serviceAccountName: graphrag-service-account@PROJECT_ID.iam.gserviceaccount.com
+      containerConcurrency: 10
+      containers:
+      - image: gcr.io/PROJECT_ID/graphrag-backend:latest
+        ports:
+        - containerPort: 8080
+        env:
+        - name: PORT
+          value: "8080"
+        - name: GCP_PROJECT_ID
+          value: "PROJECT_ID"
+        - name: SPANNER_INSTANCE_ID
+          value: "SPANNER_INSTANCE_ID"
+        - name: SPANNER_DATABASE_ID
+          value: "SPANNER_DATABASE_ID"
+        - name: GOOGLE_CLOUD_LOCATION
+          value: "us-central1"
+        - name: GOOGLE_APPLICATION_CREDENTIALS
+          value: "/var/secrets/google/key.json"
+        resources:
+          limits:
+            cpu: 1000m
+            memory: 2Gi
+        volumeMounts:
+        - name: google-cloud-key
+          mountPath: /var/secrets/google
+          readOnly: true
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8080
+          initialDelaySeconds: 30
+          periodSeconds: 30
+          timeoutSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8080
+          initialDelaySeconds: 10
+          periodSeconds: 10
+          timeoutSeconds: 5
+      volumes:
+      - name: google-cloud-key
+        secret:
+          secretName: graphrag-credentials 

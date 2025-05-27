@@ -1,0 +1,89 @@
+steps:
+  # Build the backend Docker image
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - 'gcr.io/$PROJECT_ID/graphrag-backend:$COMMIT_SHA'
+      - '-t'
+      - 'gcr.io/$PROJECT_ID/graphrag-backend:latest'
+      - './backend'
+    id: 'build-backend'
+
+  # Push the backend image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'gcr.io/$PROJECT_ID/graphrag-backend:$COMMIT_SHA'
+    id: 'push-backend'
+    waitFor: ['build-backend']
+
+  # Push the latest tag
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'gcr.io/$PROJECT_ID/graphrag-backend:latest'
+    id: 'push-backend-latest'
+    waitFor: ['build-backend']
+
+  # Deploy to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: 'gcloud'
+    args:
+      - 'run'
+      - 'deploy'
+      - 'graphrag-backend'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/graphrag-backend:$COMMIT_SHA'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--memory'
+      - '2Gi'
+      - '--cpu'
+      - '1'
+      - '--max-instances'
+      - '10'
+      - '--min-instances'
+      - '1'
+      - '--timeout'
+      - '300'
+      - '--concurrency'
+      - '10'
+      - '--service-account'
+      - 'graphrag-service-account@$PROJECT_ID.iam.gserviceaccount.com'
+      - '--set-env-vars'
+      - 'GCP_PROJECT_ID=$PROJECT_ID,SPANNER_INSTANCE_ID=${_SPANNER_INSTANCE_ID},SPANNER_DATABASE_ID=${_SPANNER_DATABASE_ID},GOOGLE_CLOUD_LOCATION=us-central1'
+    id: 'deploy-backend'
+    waitFor: ['push-backend']
+
+  # Build the scraper Docker image (optional, for batch jobs)
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - 'gcr.io/$PROJECT_ID/graphrag-scraper:$COMMIT_SHA'
+      - '-t'
+      - 'gcr.io/$PROJECT_ID/graphrag-scraper:latest'
+      - './scraper'
+    id: 'build-scraper'
+
+  # Push the scraper image
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'gcr.io/$PROJECT_ID/graphrag-scraper:$COMMIT_SHA'
+    id: 'push-scraper'
+    waitFor: ['build-scraper']
+
+substitutions:
+  _SPANNER_INSTANCE_ID: 'graphrag-instance'
+  _SPANNER_DATABASE_ID: 'graphrag-db'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
+  machineType: 'E2_HIGHCPU_8'
+
+timeout: '1200s' 

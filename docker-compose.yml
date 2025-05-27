@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8080"
+    environment:
+      - PORT=8080
+      - GCP_PROJECT_ID=${GCP_PROJECT_ID}
+      - SPANNER_INSTANCE_ID=${SPANNER_INSTANCE_ID}
+      - SPANNER_DATABASE_ID=${SPANNER_DATABASE_ID}
+      - GOOGLE_APPLICATION_CREDENTIALS_PATH=/app/credentials.json
+      - GOOGLE_CLOUD_LOCATION=${GOOGLE_CLOUD_LOCATION:-us-central1}
+    volumes:
+      - ./GraphRAG-IAM-Admin.json:/app/credentials.json:ro
+      - ./backend/logs:/app/logs
+    depends_on:
+      - scraper
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  scraper:
+    build:
+      context: ./scraper
+      dockerfile: Dockerfile
+    environment:
+      - GCP_PROJECT_ID=${GCP_PROJECT_ID}
+      - SPANNER_INSTANCE_ID=${SPANNER_INSTANCE_ID}
+      - SPANNER_DATABASE_ID=${SPANNER_DATABASE_ID}
+      - GOOGLE_APPLICATION_CREDENTIALS_PATH=/app/credentials.json
+    volumes:
+      - ./GraphRAG-IAM-Admin.json:/app/credentials.json:ro
+      - ./data:/app/data
+    restart: "no"  # Run once for scraping
+    profiles:
+      - scraper  # Only run when explicitly requested
+
+networks:
+  default:
+    name: graphrag-network 
