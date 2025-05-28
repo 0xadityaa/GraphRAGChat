@@ -13,8 +13,8 @@ RUN groupadd -r appuser && useradd -r -g appuser appuser
 # Set work directory
 WORKDIR /app
 
-# Install system dependencies
-RUN apt-get update && apt-get install -y \
+# Install system dependencies (moved before copying requirements for caching)
+RUN apt-get update && apt-get install -y --no-install-recommends \
     gcc \
     g++ \
     && rm -rf /var/lib/apt/lists/*
@@ -36,12 +36,12 @@ RUN mkdir -p /app/logs && \
 # Switch to non-root user
 USER appuser
 
-# Expose port
+# Expose port (Informational, Cloud Run uses PORT env var)
 EXPOSE $PORT
 
-# Health check
-HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
-    CMD python -c "import requests; requests.get('http://localhost:$PORT/health')" || exit 1
+# Health check (adjust path if needed, ensure your app has /health endpoint)
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+    CMD curl -f http://localhost:$PORT/health || exit 1
 
-# Run the application
-CMD exec uvicorn main:app --host 0.0.0.0 --port $PORT --workers 1 
+# Run the application - Correct CMD syntax and uvicorn execution
+CMD uvicorn main:app --host 0.0.0.0 --port $PORT --workers 1
