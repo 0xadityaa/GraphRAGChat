@@ -1,6 +1,6 @@
 # GraphRAG Chatbot
 
-A full-stack GraphRAG (Graph Retrieval Augmented Generation) chatbot application built with FastAPI + Langchain backend and Next.js frontend. The system leverages Google Cloud Spanner for graph storage, Vertex AI for embeddings and LLM capabilities, and deploys seamlessly to Google Cloud Platform.
+A full-stack GraphRAG (Graph Retrieval Augmented Generation) chatbot application built with FastAPI + Langchain backend and Next.js frontend. The system leverages Google Cloud Spanner for graph storage, Vertex AI for embeddings (text-embedding-004) and LLM (Gemini 2.5 flash) capabilities, and deploys seamlessly to Google Cloud Platform.
 
 ## Live Demo
 
@@ -9,6 +9,8 @@ A full-stack GraphRAG (Graph Retrieval Augmented Generation) chatbot application
 - **API Documentation**: https://graphrag-chatbot-471866182091.us-central1.run.app/docs
 
 ## Architecture
+![Mermaid Chart Editor May 29 2025 (2)](https://github.com/user-attachments/assets/13baae3f-ae51-43d8-9587-1faf8d0d1ea4)
+
 
 #### GraphRAG Workflow
 ![Mermaid Chart Editor May 29 2025 (1)](https://github.com/user-attachments/assets/0a561d2f-9757-4c49-82d8-6e53c12fadbe)
@@ -18,7 +20,7 @@ A full-stack GraphRAG (Graph Retrieval Augmented Generation) chatbot application
 ![Mermaid Chart Editor May 29 2025](https://github.com/user-attachments/assets/cc25a1bd-d7ab-45a7-826d-cccf3967f198)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **FastAPI**: High-performance Python web framework
@@ -26,6 +28,7 @@ A full-stack GraphRAG (Graph Retrieval Augmented Generation) chatbot application
 - **Vertex AI**: LLM (text-bison) and embedding (textembedding-gecko) models
 - **GraphRAG**: Knowledge graph-based retrieval augmented generation
 - **Docker**: Containerization for consistent deployment
+- **Crawl4AI*: Playwright based web scrapper for collecting site data
 
 ### Frontend
 - **Next.js 15**: React framework with App Router
@@ -38,8 +41,8 @@ A full-stack GraphRAG (Graph Retrieval Augmented Generation) chatbot application
 ### Infrastructure
 - **Google Cloud Run**: Serverless container deployment
 - **Google Container Registry**: Docker image storage
-- **Google Cloud Build**: CI/CD pipeline
-- **IAM & Security**: Service account-based authentication
+- **Google Spanner DB**: Managed Graph DB for knowledge graph
+- **Google Vertex AI**: LLM and Embeddings modals
 
 ## 📋 Prerequisites
 
