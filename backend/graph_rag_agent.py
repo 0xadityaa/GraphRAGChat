@@ -54,16 +54,29 @@ def fix_citation_url(url: str) -> str:
 
 # --- Initialize components ---
 credentials = None
-if CREDENTIALS_FILE_PATH:
+
+# On Cloud Run, prefer Application Default Credentials
+# Only use service account file in local development
+if os.environ.get("GOOGLE_APPLICATION_CREDENTIALS"):
+    # Running locally with service account file
+    try:
+        credentials = service_account.Credentials.from_service_account_file(os.environ["GOOGLE_APPLICATION_CREDENTIALS"])
+        print(f"Successfully loaded credentials from {os.environ['GOOGLE_APPLICATION_CREDENTIALS']}")
+    except Exception as e:
+        print(f"Error loading credentials from file: {e}")
+        credentials = None
+elif CREDENTIALS_FILE_PATH and os.path.exists(CREDENTIALS_FILE_PATH):
+    # Fallback to file path if it exists
     try:
         credentials = service_account.Credentials.from_service_account_file(CREDENTIALS_FILE_PATH)
-        print(f"Successfully loaded credentials from {CREDENTIALS_FILE_PATH}")
-        # Set environment variable for Google Cloud libraries
         os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = CREDENTIALS_FILE_PATH
-        print(f"Set GOOGLE_APPLICATION_CREDENTIALS to {CREDENTIALS_FILE_PATH}")
+        print(f"Successfully loaded credentials from {CREDENTIALS_FILE_PATH}")
     except Exception as e:
         print(f"Error loading credentials from {CREDENTIALS_FILE_PATH}: {e}")
-        print("Proceeding without explicit credentials, relying on application default credentials if available.")
+        credentials = None
+
+if credentials is None:
+    print("Using Application Default Credentials (good for Cloud Run)")
 
 # Set the project ID environment variable if not already set
 if GCP_PROJECT_ID and not os.environ.get("GOOGLE_CLOUD_PROJECT"):

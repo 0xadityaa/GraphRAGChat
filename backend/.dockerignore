@@ -72,6 +72,8 @@ docker-compose*.yml
 *.json
 *.key
 *.pem
+# Exception: Allow our specific credentials file
+!GraphRAG-IAM-Admin.json
 
 # Cache
 .cache/

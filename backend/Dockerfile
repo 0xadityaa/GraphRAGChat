@@ -29,6 +29,9 @@ RUN pip install --no-cache-dir --upgrade pip && \
 # Copy application code
 COPY . .
 
+# Copy credentials file (now in backend directory)
+COPY GraphRAG-IAM-Admin.json /app/credentials.json
+
 # Create necessary directories and set permissions
 RUN mkdir -p /app/logs && \
     chown -R appuser:appuser /app
