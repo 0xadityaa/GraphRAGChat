@@ -1,28 +1,22 @@
 # GraphRAG Chatbot
 
-A full-stack GraphRAG (Graph Retrieval-Augmented Generation) chatbot application built with FastAPI backend and Next.js frontend. The system leverages Google Cloud Spanner for graph storage, Vertex AI for embeddings and LLM capabilities, and deploys seamlessly to Google Cloud Platform.
+A full-stack GraphRAG (Graph Retrieval Augmented Generation) chatbot application built with FastAPI + Langchain backend and Next.js frontend. The system leverages Google Cloud Spanner for graph storage, Vertex AI for embeddings and LLM capabilities, and deploys seamlessly to Google Cloud Platform.
 
-## 🚀 Live Demo
+## Live Demo
 
 - **Frontend**: https://frontend-471866182091.us-central1.run.app
 - **Backend API**: https://graphrag-chatbot-471866182091.us-central1.run.app
 - **API Documentation**: https://graphrag-chatbot-471866182091.us-central1.run.app/docs
 
-## 🏗️ Architecture
+## Architecture
 
-```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│   Next.js       │────▶│   FastAPI       │────▶│   Google Cloud  │
-│   Frontend      │     │   Backend       │     │   Spanner       │
-│   (Port 3000)   │     │   (Port 8000)   │     │   (Graph DB)    │
-└─────────────────┘     └─────────────────┘     └─────────────────┘
-                                │
-                                ▼
-                        ┌─────────────────┐
-                        │   Vertex AI     │
-                        │   (LLM & Embed) │
-                        └─────────────────┘
-```
+#### GraphRAG Workflow
+![Mermaid Chart Editor May 29 2025 (1)](https://github.com/user-attachments/assets/0a561d2f-9757-4c49-82d8-6e53c12fadbe)
+
+
+#### Data Scraping and Ingestion workflow
+![Mermaid Chart Editor May 29 2025](https://github.com/user-attachments/assets/cc25a1bd-d7ab-45a7-826d-cccf3967f198)
+
 
 ## 🛠️ Tech Stack
 
@@ -297,21 +291,6 @@ Visit `/docs` endpoint for Swagger UI documentation when running the backend.
 - ✅ Conversation management
 - ✅ Loading states and error handling
 - ✅ Responsive design
-- ✅ Dark/light theme support
-
-## 🧪 Testing
-
-### Backend Tests
-```bash
-cd backend
-python -m pytest tests/
-```
-
-### Frontend Tests
-```bash
-cd frontend
-npm test
-```
 
 ### Health Checks
 ```bash
@@ -332,77 +311,3 @@ docker-compose logs -f backend
 # Cloud Run logs
 gcloud run logs read graphrag-backend --region us-central1
 ```
-
-### Metrics
-- Response times via Cloud Run metrics
-- Error rates via Cloud Logging
-- Resource usage via Cloud Monitoring
-
-## 🔒 Security
-
-- Service account-based authentication
-- IAM role-based access control
-- Container security with non-root users
-- Environment variable-based configuration
-- CORS protection for frontend-backend communication
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-**Backend won't start**:
-- Check Google Cloud credentials
-- Verify Spanner instance and database exist
-- Ensure all environment variables are set
-
-**Frontend can't connect to backend**:
-- Verify `NEXT_PUBLIC_API_URL` is correct
-- Check CORS configuration in backend
-- Ensure backend is accessible
-
-**Deployment failures**:
-- Check Docker image builds locally first
-- Verify gcloud authentication and project
-- Check Cloud Run service logs
-
-### Debug Mode
-Enable detailed logging:
-```bash
-# Backend
-export LOG_LEVEL=DEBUG
-
-# View detailed logs
-docker-compose logs -f backend
-```
-
-## 📝 Development Notes
-
-- The system automatically generates conversation IDs
-- Citations are processed and displayed separately from responses
-- All LLM responses are cleaned and formatted as markdown
-- The backend supports streaming responses for real-time chat
-- Frontend uses optimistic UI updates for better UX
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-For issues and questions:
-- Check the troubleshooting section above
-- Review the API documentation at `/docs`
-- Check Cloud Run logs for deployment issues
-- Verify Google Cloud quotas and permissions
-
----
-
-**Note**: Remember to update the URLs and project IDs in this README with your actual values before deploying. 
