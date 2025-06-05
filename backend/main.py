@@ -8,30 +8,25 @@ from pydantic import BaseModel, Field
 import logging
 import os
 
-# Import the GraphRAG agent function
 from graph_rag_agent import run_agent
 
-# Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Create FastAPI app
 app = FastAPI(
     title="GraphRAG Chatbot API",
     description="A FastAPI backend for GraphRAG chatbot using Google Cloud Spanner and Vertex AI",
     version="1.0.0"
 )
 
-# Add CORS middleware to allow frontend connections
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, replace with specific origins
+    allow_origins=os.getenv("ALLOWED_ORIGINS", "*").split(","),
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Pydantic models for request/response
 class ChatRequest(BaseModel):
     question: str = Field(..., description="The user's question", min_length=1)
     conversation_id: str = Field(..., description="Unique conversation identifier")
@@ -76,7 +71,6 @@ class ErrorResponse(BaseModel):
     conversation_id: str = Field(..., description="The conversation identifier")
     timestamp: datetime = Field(..., description="Error timestamp")
 
-# In-memory storage for conversation history (in production, use a database)
 conversation_history = {}
 
 @app.get("/")
@@ -116,46 +110,33 @@ async def chat_endpoint(request: ChatRequest):
         logger.info(f"Processing chat request for conversation {request.conversation_id}")
         logger.info(f"Question: {request.question}")
         
-        # Validate inputs
         if not request.question.strip():
             raise HTTPException(status_code=400, detail="Question cannot be empty")
         
         if not request.conversation_id.strip():
             raise HTTPException(status_code=400, detail="Conversation ID cannot be empty")
         
-        # Store conversation history (optional - for context in future messages)
         if request.conversation_id not in conversation_history:
             conversation_history[request.conversation_id] = []
         
-        # Prepare conversation history for the agent (convert to the format expected by GraphRAG agent)
         formatted_history = []
         for msg in conversation_history[request.conversation_id]:
-            # Add user message
             formatted_history.append({
                 "role": "user",
                 "content": msg["question"],
                 "timestamp": msg["timestamp"].isoformat() if hasattr(msg["timestamp"], 'isoformat') else str(msg["timestamp"])
             })
-            # Add assistant message
             formatted_history.append({
-                "role": "assistant", 
+                "role": "assistant",
                 "content": msg["answer"],
                 "timestamp": msg["timestamp"].isoformat() if hasattr(msg["timestamp"], 'isoformat') else str(msg["timestamp"])
             })
-        
-        # Run the GraphRAG agent with conversation history
         logger.info("Calling GraphRAG agent...")
         agent_result = await run_agent(request.question, formatted_history)
-        
-        # Extract answer and citations from agent result
         answer = agent_result.get("answer", "I couldn't generate an answer.")
         citations = agent_result.get("cited_sources", [])
-        
-        # Log the results
         logger.info(f"Agent response: {answer[:100]}...")
         logger.info(f"Citations found: {len(citations)}")
-        
-        # Store this interaction in conversation history
         conversation_history[request.conversation_id].append({
             "message_id": message_id,
             "question": request.question,
@@ -164,11 +145,8 @@ async def chat_endpoint(request: ChatRequest):
             "timestamp": datetime.now()
         })
         
-        # Calculate processing time
         end_time = asyncio.get_event_loop().time()
         processing_time = round(end_time - start_time, 2)
-        
-        # Create response
         response = ChatResponse(
             answer=answer,
             citations=citations,
@@ -186,7 +164,6 @@ async def chat_endpoint(request: ChatRequest):
         end_time = asyncio.get_event_loop().time()
         processing_time = round(end_time - start_time, 2)
         
-        # Return error response
         raise HTTPException(
             status_code=500,
             detail={
@@ -236,13 +213,12 @@ async def delete_conversation(conversation_id: str):
 
 if __name__ == "__main__":
     import uvicorn
-    
-    # Start the server
+
     port = int(os.environ.get("PORT", 8000))
     uvicorn.run(
         "main:app",
         host="0.0.0.0",
         port=port,
-        reload=True,
-        log_level="info"
-    ) 
+        reload=False,
+        log_level="info",
+    )
