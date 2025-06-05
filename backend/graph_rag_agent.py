@@ -8,22 +8,20 @@ from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
 from langgraph.graph import StateGraph, END
 from dotenv import load_dotenv
-from google.oauth2 import service_account # Import for loading credentials object
+from google.oauth2 import service_account
 from datetime import datetime
 
-load_dotenv() # Load environment variables from .env file
+load_dotenv()
 
-# --- Configuration ---
 GCP_PROJECT_ID = os.getenv("GCP_PROJECT_ID", "graphrag-460523")
 SPANNER_INSTANCE_ID = os.getenv("SPANNER_INSTANCE_ID", "graphrag-instance")
 SPANNER_DATABASE_ID = os.getenv("SPANNER_DATABASE_ID", "graphrag-db")
 CREDENTIALS_FILE_PATH = os.getenv("GOOGLE_APPLICATION_CREDENTIALS_PATH", "../GraphRAG-IAM-Admin.json")
 LOCATION = os.getenv("GOOGLE_CLOUD_LOCATION", "us-central1")
 
-EMBEDDING_MODEL_NAME = "text-embedding-004" # Must match ingestion, Or "text-embedding-005" / "gemini-embedding-001"
-GEMINI_MODEL_NAME = "gemini-2.5-flash-preview-05-20" # Using PaLM 2 which is more widely available
+EMBEDDING_MODEL_NAME = "text-embedding-004"
+GEMINI_MODEL_NAME = "gemini-2.5-flash-preview-05-20"
 
-# --- URL Fixing Function ---
 def fix_citation_url(url: str) -> str:
     """
     Fix citation URLs by:
@@ -35,30 +33,24 @@ def fix_citation_url(url: str) -> str:
     if not url or url == "Unknown source":
         return url
     
-    # First, decode any URL-encoded characters
     import urllib.parse
     try:
         decoded_url = urllib.parse.unquote(url)
     except Exception as e:
         print(f"Warning: Could not decode URL {url}: {e}")
         decoded_url = url
-    
-    # Then, find the last underscore and replace with forward slash
+
     last_underscore_index = decoded_url.rfind('_')
     if last_underscore_index != -1:
-        # Replace the last underscore with a forward slash
         fixed_url = decoded_url[:last_underscore_index] + '/' + decoded_url[last_underscore_index + 1:]
         return fixed_url
     
     return decoded_url
 
-# --- Initialize components ---
 credentials = None
 
-# On Cloud Run, prefer Application Default Credentials
-# Only use service account file in local development
+credentials = None
 if os.environ.get("GOOGLE_APPLICATION_CREDENTIALS"):
-    # Running locally with service account file
     try:
         credentials = service_account.Credentials.from_service_account_file(os.environ["GOOGLE_APPLICATION_CREDENTIALS"])
         print(f"Successfully loaded credentials from {os.environ['GOOGLE_APPLICATION_CREDENTIALS']}")
@@ -66,7 +58,6 @@ if os.environ.get("GOOGLE_APPLICATION_CREDENTIALS"):
         print(f"Error loading credentials from file: {e}")
         credentials = None
 elif CREDENTIALS_FILE_PATH and os.path.exists(CREDENTIALS_FILE_PATH):
-    # Fallback to file path if it exists
     try:
         credentials = service_account.Credentials.from_service_account_file(CREDENTIALS_FILE_PATH)
         os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = CREDENTIALS_FILE_PATH
@@ -78,7 +69,6 @@ elif CREDENTIALS_FILE_PATH and os.path.exists(CREDENTIALS_FILE_PATH):
 if credentials is None:
     print("Using Application Default Credentials (good for Cloud Run)")
 
-# Set the project ID environment variable if not already set
 if GCP_PROJECT_ID and not os.environ.get("GOOGLE_CLOUD_PROJECT"):
     os.environ["GOOGLE_CLOUD_PROJECT"] = GCP_PROJECT_ID
     print(f"Set GOOGLE_CLOUD_PROJECT to {GCP_PROJECT_ID}")
@@ -103,20 +93,16 @@ embeddings = VertexAIEmbeddings(
     location=LOCATION
 )
 
-# The retriever expects embeddings to be a property of the nodes.
-# The node_label should match what was used during ingestion (e.g., "DocumentChunk")
-# The text_properties and embedding_properties should match the keys used in node properties.
 retriever = SpannerGraphVectorContextRetriever(
     graph_store=graph_store,
     embedding_service=embeddings,
-    node_label="DocumentChunk",  # Matches node_type in ingestion
-    text_properties=["text"],    # Properties to consider as text
-    embedding_properties=["embedding"],  # Embedding property
-    expand_by_hops=0,  # 0 = direct vector search only
+    node_label="DocumentChunk",
+    text_properties=["text"],
+    embedding_properties=["embedding"],
+    expand_by_hops=0,
     top_k=5
 )
 
-# Try to initialize LLM with fallback models
 FALLBACK_MODELS = ["text-bison@001", "text-bison", "chat-bison", "gemini-pro"]
 llm = None
 
@@ -139,52 +125,42 @@ for model_name in [GEMINI_MODEL_NAME] + FALLBACK_MODELS:
 if llm is None:
     raise Exception("Failed to initialize any LLM model. Please check your Vertex AI setup and enabled APIs.")
 
-# --- Define Agent State ---
 class GraphRAGState(TypedDict):
     question: str
-    conversation_history: List[dict] # List of previous messages [{"role": "user/assistant", "content": "...", "timestamp": "..."}]
-    context: List[dict] # List of retrieved documents (chunks with metadata)
+    conversation_history: List[dict]
+    context: List[dict]
     answer: str
     cited_sources: List[str]
     error: str | None
 
-# --- Define Pydantic model for structured output with citations ---
 class CitedAnswer(BaseModel):
     answer: str = Field(description="The textual answer to the question.")
     sources: List[str] = Field(description="A list of source URLs that support the answer.")
 
-# --- Define Agent Nodes ---
 
 async def retrieve_context(state: GraphRAGState):
     print("---RETRIEVING CONTEXT---")
     question = state["question"]
     try:
-        # Use ainvoke instead of deprecated aget_relevant_documents
         retrieved_docs = await retriever.ainvoke(question)
         
         context_for_llm = []
         for doc in retrieved_docs:
-            # The retriever returns Document objects where page_content contains JSON data
-            # We need to parse this JSON to extract the actual text content
             try:
                 import json
                 if isinstance(doc.page_content, str) and doc.page_content.startswith('{"path":'):
-                    # Parse the JSON structure to extract the actual text
                     data = json.loads(doc.page_content)
                     text = data.get("path", {}).get("properties", {}).get("text", "")
                     source = data.get("path", {}).get("properties", {}).get("source_url", "Unknown source")
                 else:
-                    # Fallback to original approach if the structure is different
                     text = doc.page_content
                     source = doc.metadata.get("source_url", "Unknown source")
             except (json.JSONDecodeError, KeyError, AttributeError) as e:
                 print(f"Error parsing document content: {e}")
                 print(f"Document content: {doc.page_content[:200]}...")
-                # Fallback to original approach
                 text = doc.page_content
                 source = doc.metadata.get("source_url", "Unknown source")
 
-            # Only add if we have actual text content
             if text and text.strip():
                 context_for_llm.append({"text": text, "source_url": fix_citation_url(source)})
         
@@ -203,7 +179,7 @@ async def generate_answer(state: GraphRAGState):
     conversation_history = state.get("conversation_history", [])
     error = state.get("error")
 
-    if error and not context: # If retrieval failed completely
+    if error and not context:
         return {"answer": "I couldn't find any information to answer your question.", "cited_sources": [], "error": error}
     if not context:
         return {"answer": "I couldn't find any relevant information to answer your question.", "cited_sources": []}
@@ -212,13 +188,12 @@ async def generate_answer(state: GraphRAGState):
         f"Source URL: {item['source_url']}\nContent: {item['text']}" for item in context
     ])
 
-    # Build conversation history string
     history_str = ""
     if conversation_history:
         history_str = "\n\nPrevious conversation:\n"
-        for msg in conversation_history[-6:]:  # Include last 6 messages for context
+        for msg in conversation_history[-6:]:
             role = "Customer" if msg.get("role") == "user" else "Smartie"
-            content = msg.get("content", "")[:200]  # Limit length
+            content = msg.get("content", "")[:200]
             history_str += f"{role}: {content}\n"
 
     prompt_template = ChatPromptTemplate.from_messages([
@@ -236,12 +211,10 @@ async def generate_answer(state: GraphRAGState):
     ])
     
     try:
-        # Use regular LLM invocation instead of structured output for better compatibility
         messages = prompt_template.format_messages(question=question, context_str=context_str, history_str=history_str)
         response = await llm.ainvoke(messages)
         answer_text = response.content
-        
-        # Parse citations from the response
+
         lines = answer_text.splitlines()
         answer_part = []
         cited_sources_list = []
@@ -252,9 +225,7 @@ async def generate_answer(state: GraphRAGState):
                 parsing_sources = True
                 continue
             if parsing_sources:
-                # Look for URLs in the line
                 if line.strip() and ("http" in line.lower() or line.strip().startswith("-") or line.strip().startswith("*")):
-                    # Extract URL from line (remove bullet points, etc.)
                     clean_line = line.strip().lstrip("- *").strip()
                     if clean_line:
                         cited_sources_list.append(fix_citation_url(clean_line))
@@ -263,7 +234,6 @@ async def generate_answer(state: GraphRAGState):
         
         final_answer = "\n".join(answer_part).strip()
         
-        # If no sources were found in the text, try to extract unique sources from context
         if not cited_sources_list:
             cited_sources_list = [fix_citation_url(item['source_url']) for item in context if item['source_url'] != "Unknown source"]
 
@@ -278,7 +248,6 @@ async def generate_answer(state: GraphRAGState):
         return {"answer": "Sorry, I encountered an error while generating the answer.", "cited_sources": [], "error": f"LLM generation failed: {e}"}
 
 
-# --- Build the Graph ---
 workflow = StateGraph(GraphRAGState)
 
 workflow.add_node("retrieve_context", retrieve_context)
@@ -290,7 +259,6 @@ workflow.add_edge("generate_answer", END)
 
 app = workflow.compile()
 
-# --- Function to run the agent ---
 async def run_agent(question: str, conversation_history: List[dict] = None):
     if conversation_history is None:
         conversation_history = []
@@ -302,8 +270,7 @@ async def run_agent(question: str, conversation_history: List[dict] = None):
     async for output_event in app.astream(inputs):
         for key, value in output_event.items():
             print(f"--- Event from node: {key} ---")
-            # print(value) # Full state or output of the node
-    # Get the final state
+    
     final_state = await app.ainvoke(inputs)
     return final_state
 
@@ -319,7 +286,6 @@ async def main_chat():
         if not user_question.strip():
             continue
 
-        # Add user message to history before calling agent
         conversation_history.append({
             "role": "user",
             "content": user_question,
@@ -328,9 +294,8 @@ async def main_chat():
 
         final_state = await run_agent(user_question, conversation_history)
         
-        # Add assistant response to history
         conversation_history.append({
-            "role": "assistant", 
+            "role": "assistant",
             "content": final_state['answer'],
             "timestamp": datetime.now().isoformat()
         })
@@ -342,12 +307,11 @@ async def main_chat():
             print("\nCited Sources:")
             for source in final_state['cited_sources']:
                 print(f"- {fix_citation_url(source)}")
-        if final_state.get('error') and "No relevant context found" not in final_state['error'] and "LLM generation failed" not in final_state['error']: # Print error if it's not handled in answer
+        if final_state.get('error') and "No relevant context found" not in final_state['error'] and "LLM generation failed" not in final_state['error']:
             print(f"\nError during processing: {final_state['error']}")
         print("-" * 30 + "\n")
 
 if __name__ == "__main__":
-    # Check if the credentials file exists
     if not os.path.exists(CREDENTIALS_FILE_PATH):
         print(f"ERROR: Credentials file not found at {CREDENTIALS_FILE_PATH}")
         print("Please ensure the GraphRAG-IAM-Admin.json file is in the correct location.")

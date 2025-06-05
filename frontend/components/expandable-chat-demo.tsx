@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef, type FormEvent } from "react"
-import { Bot, Paperclip, Mic, Send, User, Link2 } from "lucide-react"
+import { Bot, Send, User } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { ChatBubble, ChatBubbleAvatar, ChatBubbleMessage } from "@/components/ui/chat-bubble"
 import { ChatInput } from "@/components/ui/chat-input"
@@ -41,45 +41,25 @@ export function ExpandableChatDemo() {
 
   const inputRef = useRef<HTMLTextAreaElement>(null)
 
-  // Check backend health on mount
   useEffect(() => {
-    console.log("Generated conversation ID:", conversationId)
-    
     const checkHealth = async () => {
       try {
-        const health = await chatApi.healthCheck()
-        if (!health) {
-          console.warn("Backend health check failed - API may be unavailable")
-        } else {
-          console.log("Backend is healthy:", health)
-        }
-      } catch (error) {
-        console.error("Backend health check error:", error)
-      }
+        await chatApi.healthCheck()
+      } catch {}
     }
     checkHealth()
   }, [])
 
-  // Debug logging for input state
   useEffect(() => {
-    console.log("Input state debug:", {
-      isLoading,
-      conversationId,
-      inputDisabled: isLoading || !conversationId,
-      inputValue: input
-    })
-  }, [isLoading, conversationId, input])
+    if (!isLoading && conversationId && inputRef.current) {
+      inputRef.current.focus()
+    }
+  }, [isLoading, conversationId])
 
   const handleSubmit = async (e: FormEvent) => {
     e.preventDefault()
-    console.log("handleSubmit called with:", { input: input.trim(), isLoading, conversationId })
-    
+
     if (!input.trim() || isLoading || !conversationId) {
-      console.log("Submit blocked:", { 
-        noInput: !input.trim(), 
-        isLoading, 
-        noConversationId: !conversationId 
-      })
       return
     }
 
@@ -89,31 +69,20 @@ export function ExpandableChatDemo() {
       sender: "user",
       timestamp: new Date(),
     }
-
-    console.log("Starting API call with conversationId:", conversationId)
-    
-    // Add user message immediately
     setMessages((prev) => [...prev, userMessage])
     setInput("")
     setIsLoading(true)
     setError(null)
 
     try {
-      // Call the real API
       const response = await chatApi.sendMessage({
         question: userMessage.content,
         conversation_id: conversationId,
       })
 
-      console.log("API response received, conversationId still:", conversationId)
-
-      // Clean the response content
       const cleanedContent = cleanLLMResponse(response.answer)
-
-      // Format citations for UI
       const formattedSources = formatCitationsForUI(response.citations)
 
-      // Create AI response message
       const aiMessage: Message = {
         id: response.message_id,
         content: cleanedContent,
@@ -123,16 +92,8 @@ export function ExpandableChatDemo() {
       }
 
       setMessages((prev) => [...prev, aiMessage])
-      console.log("API Response processed:", {
-        processingTime: response.processing_time,
-        citationsCount: response.citations.length,
-        conversationIdAfter: conversationId
-      })
 
     } catch (error) {
-      console.error("Chat API Error:", error)
-      
-      // Add error message
       const errorMessage: Message = {
         id: `error_${Date.now()}`,
         content: `Sorry, I encountered an error while processing your request. ${
@@ -147,11 +108,6 @@ export function ExpandableChatDemo() {
       setError(error instanceof Error ? error.message : "Unknown error occurred")
     } finally {
       setIsLoading(false)
-      console.log("handleSubmit finished, final state:", { 
-        isLoading: false, 
-        conversationId,
-        inputWillBeDisabled: false || !conversationId
-      })
     }
   }
 
@@ -160,25 +116,20 @@ export function ExpandableChatDemo() {
       if (conversationId) {
         await chatApi.deleteConversation(conversationId)
       }
-      // Reset to initial state
       setMessages([
         {
-      id: "welcome",
-      content: "Hey! I'm Smartie, your personal **MadeWithNestlé** assistant. Ask me anything, and I'll quickly search the entire site to find the answers you need!",
-      sender: "ai",
-      timestamp: new Date(),
-    }
+          id: "welcome",
+          content: "Hey! I'm Smartie, your personal **MadeWithNestlé** assistant. Ask me anything, and I'll quickly search the entire site to find the answers you need!",
+          sender: "ai",
+          timestamp: new Date(),
+        },
       ])
       const newConversationId = generateConversationId()
       setConversationId(newConversationId)
       setError(null)
-      console.log("Conversation cleared, new ID:", newConversationId)
     } catch (error) {
-      console.error("Error clearing conversation:", error)
     }
   }
-
-  // Refocus input after loading ends
   useEffect(() => {
     if (!isLoading && conversationId && inputRef.current) {
       inputRef.current.focus()

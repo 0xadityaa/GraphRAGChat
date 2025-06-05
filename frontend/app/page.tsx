@@ -8,7 +8,6 @@ export default function Home() {
         backgroundImage: "url('/bg.png')",
       }}
     >
-      {/* Expandable Chat Component */}
       <ExpandableChatDemo />
     </div>
   )
