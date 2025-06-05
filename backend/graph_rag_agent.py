@@ -294,16 +294,16 @@ app = workflow.compile()
 async def run_agent(question: str, conversation_history: List[dict] = None):
     if conversation_history is None:
         conversation_history = []
-    
+
     inputs = {
-        "question": question, 
+        "question": question,
         "conversation_history": conversation_history
     }
-    async for output_event in app.astream(inputs):
-        for key, value in output_event.items():
-            print(f"--- Event from node: {key} ---")
-            # print(value) # Full state or output of the node
-    # Get the final state
+
+    # Directly invoke the workflow once and return the final state
+    # Using ``astream`` would stream events and then ``ainvoke`` would
+    # execute the workflow a second time. To avoid duplicate work we
+    # simply invoke the graph once and return the result.
     final_state = await app.ainvoke(inputs)
     return final_state
 
